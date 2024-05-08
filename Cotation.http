@@ -1,0 +1,6 @@
+@Cotation_HostAddress = http://localhost:5062
+
+GET {{Cotation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
